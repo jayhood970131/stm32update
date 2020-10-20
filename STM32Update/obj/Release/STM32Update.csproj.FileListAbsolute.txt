@@ -1,0 +1,10 @@
+D:\Codes\cs\STM32Update-V1.16-new\STM32Update\bin\Release\STM32Update.exe.config
+D:\Codes\cs\STM32Update-V1.16-new\STM32Update\bin\Release\STM32Update.exe
+D:\Codes\cs\STM32Update-V1.16-new\STM32Update\bin\Release\STM32Update.pdb
+D:\Codes\cs\STM32Update-V1.16-new\STM32Update\obj\Release\STM32Update.csprojAssemblyReference.cache
+D:\Codes\cs\STM32Update-V1.16-new\STM32Update\obj\Release\STM32Update.MainForm.resources
+D:\Codes\cs\STM32Update-V1.16-new\STM32Update\obj\Release\STM32Update.Properties.Resources.resources
+D:\Codes\cs\STM32Update-V1.16-new\STM32Update\obj\Release\STM32Update.csproj.GenerateResource.cache
+D:\Codes\cs\STM32Update-V1.16-new\STM32Update\obj\Release\STM32Update.csproj.CoreCompileInputs.cache
+D:\Codes\cs\STM32Update-V1.16-new\STM32Update\obj\Release\STM32Update.exe
+D:\Codes\cs\STM32Update-V1.16-new\STM32Update\obj\Release\STM32Update.pdb
